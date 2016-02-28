@@ -1,0 +1,25 @@
+_repo: Six-Plays_5618
+creator:
+  author:
+    agent_name: Darwin, Florence Henrietta Fisher, Lady
+    birthdate: 1864
+    deathdate: 1920
+    gutenberg_agent_id: '1814'
+    url: http://www.gutenberg.org/2009/agents/1814
+    wikipedia: http://en.wikipedia.org/wiki/Florence_Henrietta_Darwin
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PR'
+tableOfContents: "The lover's tasks\r\nBushes and briars\r\nMy man John\r\nPrincess\
+  \ royal\r\nThe seeds of love\r\nThe new year."
+title: Six Plays
+url: http://www.gutenberg.org/ebooks/5618
