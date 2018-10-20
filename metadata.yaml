@@ -1,5 +1,5 @@
 _repo: Six-Plays_5618
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 5618-h/images/coverb.jpg
@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Drama'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: "The lover's tasks\r\nBushes and briars\r\nMy man John\r\nPrincess\
   \ royal\r\nThe seeds of love\r\nThe new year."
 title: Six Plays
